@@ -1,2 +1,2 @@
-# abap-better-code-26
-betterCode() 2026 Ressources
+# betterCode() 2026
+The ABAP Edition of the betterCode() Event.
